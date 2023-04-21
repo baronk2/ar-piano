@@ -3,7 +3,7 @@
 [Meta Spark Studio](https://sparkar.facebook.com/ar-studio/) - Create Immersive AR Experiences
 
 ## Description
-Augmented reality (AR) piano app that harnesses Spark AR to create a virtual piano projected into your 3D environment via your smartphone camera input
+Augmented reality (AR) piano app that harnesses Spark AR to create a virtual piano projected into your physical 3D environment via your smartphone camera input
 
 ## Examples
 

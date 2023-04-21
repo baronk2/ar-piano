@@ -18,7 +18,7 @@ There are a few different ways to run this Scratch code. It can be done offline 
 
 2. [Download Spark AR Studio](https://sparkar.facebook.com/ar-studio/)
 
-3. Use Spark AR Studio to open the [`piano-demo.arproj` file](piano-demo/piano-demo.arproj).
+3. Use Spark AR Studio to open the [`piano-demo.arproj`](piano-demo/piano-demo.arproj) file.
 
 ## Controls
 

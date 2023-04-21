@@ -12,7 +12,7 @@ Augmented reality (AR) piano app that harnesses Spark AR to create a virtual pia
 ![AR Piano in Spark AR Studio's development environment](screenshots/video-mode-on-pc.png)
 
 ## Demo / Develop
-There are a few different ways to run this Scratch code. It can be done offline or online. If you have a stable internet connection, the easiest way is to use Scratch's online editor.
+If you'd like to try out or work on this app, feel free! Here's how:
 
 1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository.
 

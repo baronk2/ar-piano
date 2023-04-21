@@ -7,6 +7,10 @@ Augmented reality (AR) piano app that harnesses Spark AR to create a virtual pia
 
 ## Examples
 
+<img src="screenshots/test-on-device.jpg" alt="AR Piano on mobile device" width=300>
+
+<img src="screenshots/video-mode-on-pc.png" alt="AR Piano in Spark AR Studio's development environment" width=600>
+
 ![AR Piano on mobile device](screenshots/test-on-device.jpg)
 
 ![AR Piano in Spark AR Studio's development environment](screenshots/video-mode-on-pc.png)
